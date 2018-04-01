@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS `contacts` ( `First_name` varchar(200) NOT NULL, `Last_Name` varchar(500) NOT NULL, `Company` varchar(500) NOT NULL, `Email` varchar(500) NOT NULL, `Interest` varchar(500) NOT NULL )
