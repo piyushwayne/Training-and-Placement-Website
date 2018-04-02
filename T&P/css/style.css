@@ -420,6 +420,12 @@ h3.tittle2 {
     color: #fff;
     text-align: center;
 }
+h3.tittlenew {
+  font-size: 2.5em;
+    color: #fff;
+    text-align: center;
+  
+}  
 .test-grid {
     margin-top: 4em;
 }
@@ -1713,6 +1719,11 @@ h2.tittle {
 h3.tittle, h3.tittle2, h3.tittle1 {
     font-size: 2.5em;
 }
+  
+h3.tittlenew {
+     font-size: 1.5em;
+     
+  }   
 .testimonials-w3 h5 {
     font-size: 1.5em;
     width: 90%;  
@@ -1981,6 +1992,8 @@ h2.tittle {
     font-size: 1.9em;
     line-height: 1.5em;
 }
+  
+
 .video-grid iframe {
     height: 177px;
 }
